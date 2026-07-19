@@ -1,46 +1,85 @@
-# Engineering Portfolio
+# 🚀 Kalachand Dash -- Engineering Portfolio
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-brightgreen.svg)](portfolio/engineering-portfolio.pdf)
+> **Production AI Systems • Full‑Stack AI Engineering • LLM Applications
+> • Agentic Workflows**
 
-## Overview
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Portfolio](https://img.shields.io/badge/Portfolio-Engineering-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-This repository contains my professional Engineering Portfolio, showcasing my experience, skills, and accomplishments in engineering disciplines.
+Welcome! This repository is the engineering companion to my AI projects.
+It showcases how I approach the design and implementation of
+production-oriented AI systems---from backend architecture and APIs to
+Retrieval-Augmented Generation (RAG), agent orchestration, and modern
+full-stack development.
 
-![Portfolio Preview](assets/portfolio-preview.png)
-*<!-- Add a screenshot of your portfolio cover page as assets/portfolio-preview.png -->*
+------------------------------------------------------------------------
 
-## What's Included
+## About
 
-- **Technical Projects**: A comprehensive collection of engineering projects demonstrating problem-solving and technical expertise
-- **Skills & Competencies**: Detailed breakdown of technical proficiencies and methodologies
-- **Professional Experience**: Career highlights and key achievements
-- **Education & Certifications**: Academic background and professional development
+This portfolio focuses on practical software engineering. Rather than
+isolated demos, it highlights the process of designing, building,
+testing, and shipping reliable AI applications.
 
-## How to View
+### Core Areas
 
-1. **Direct Download**: [Download the PDF](portfolio/engineering-portfolio.pdf)
-2. **View Online**: Open the file directly in your browser or PDF viewer
+-   🤖 AI Systems Engineering
+-   🧠 LLM Integration
+-   🔎 Retrieval-Augmented Generation (RAG)
+-   🛠️ Agentic Workflows
+-   ⚙️ Backend APIs
+-   🌐 React + TypeScript
+-   📦 Express.js
+-   💾 Vector Databases
+-   📄 Technical Documentation
+
+------------------------------------------------------------------------
+
+## Engineering Philosophy
+
+I value systems that are:
+
+-   Reliable before clever
+-   Modular instead of tightly coupled
+-   Observable and debuggable
+-   Easy to maintain and extend
+-   Focused on solving real business problems
+
+------------------------------------------------------------------------
+
+## Portfolio
+
+Open the complete Engineering Portfolio here:
+
+**📄 [engineering-portfolio.pdf](portfolio/engineering-portfolio.pdf)**
+
+GitHub can preview the document directly or allow it to be downloaded.
+
+------------------------------------------------------------------------
 
 ## Repository Structure
 
-```
-engineering-portfolio/
-├── README.md                 # This file
-├── LICENSE                   # MIT License
-├── .gitignore               # Git ignore rules
-├── assets/                  # Preview images and resources
-│   └── portfolio-preview.png  # Portfolio preview placeholder
-└── portfolio/               # Portfolio documents
+``` text
+.
+├── README.md
+├── LICENSE
+├── .gitignore
+└── portfolio/
     └── engineering-portfolio.pdf
 ```
 
-## Contact
+------------------------------------------------------------------------
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+## Connect
+
+-   GitHub Profile
+-   LinkedIn
+-   Email
+
+(Add your preferred contact information before sharing publicly.)
+
+------------------------------------------------------------------------
 
 ## License
 
-This portfolio is available under the MIT License - see the [LICENSE](LICENSE) file for details.
+Released under the MIT License.
